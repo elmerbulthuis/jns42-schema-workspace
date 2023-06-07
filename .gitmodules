@@ -1,0 +1,20 @@
+[submodule "jns42-schema-draft-04"]
+	path = jns42-schema-draft-04
+	url = ../jns42-schema-draft-04
+	ignore = all
+[submodule "jns42-schema-draft-06"]
+	path = jns42-schema-draft-06
+	url = ../jns42-schema-draft-06
+	ignore = all
+[submodule "jns42-schema-draft-07"]
+	path = jns42-schema-draft-07
+	url = ../jns42-schema-draft-07
+	ignore = all
+[submodule "jns42-schema-draft-2019-09"]
+	path = jns42-schema-draft-2019-09
+	url = ../jns42-schema-draft-2019-09
+	ignore = all
+[submodule "jns42-schema-draft-2020-12"]
+	path = jns42-schema-draft-2020-12
+	url = ../jns42-schema-draft-2020-12
+	ignore = all

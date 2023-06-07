@@ -1,4 +1,24 @@
 {
 	"folders": [
+		{
+			"name": "jns42-schema-draft-04",
+			"path": "jns42-schema-draft-04"
+		},
+		{
+			"name": "jns42-schema-draft-06",
+			"path": "jns42-schema-draft-06"
+		},
+		{
+			"name": "jns42-schema-draft-07",
+			"path": "jns42-schema-draft-07"
+		},
+		{
+			"name": "jns42-schema-draft-2019-09",
+			"path": "jns42-schema-draft-2019-09"
+		},
+		{
+			"name": "jns42-schema-draft-2020-12",
+			"path": "jns42-schema-draft-2020-12"
+		}
 	]
 }
