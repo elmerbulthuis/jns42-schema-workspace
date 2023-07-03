@@ -18,3 +18,7 @@
 	path = jns42-schema-draft-2020-12
 	url = ../jns42-schema-draft-2020-12
 	ignore = all
+[submodule "jns42-schema-intermediate-a"]
+	path = jns42-schema-intermediate-a
+	url = ../jns42-schema-intermediate-a
+	ignore = all

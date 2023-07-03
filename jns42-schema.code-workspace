@@ -19,6 +19,9 @@
 		{
 			"name": "jns42-schema-draft-2020-12",
 			"path": "jns42-schema-draft-2020-12"
+		},
+		{
+			"path": "jns42-schema-intermediate-a"
 		}
 	]
 }
