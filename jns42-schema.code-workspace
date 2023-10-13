@@ -22,6 +22,9 @@
 		},
 		{
 			"path": "jns42-schema-intermediate-a"
+		},
+		{
+			"path": "jns42-schema-intermediate-b"
 		}
 	]
 }

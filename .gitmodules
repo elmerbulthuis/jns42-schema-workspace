@@ -22,3 +22,7 @@
 	path = jns42-schema-intermediate-a
 	url = ../jns42-schema-intermediate-a
 	ignore = all
+[submodule "jns42-schema-intermediate-b"]
+	path = jns42-schema-intermediate-b
+	url = ../jns42-schema-intermediate-b
+	ignore = all
