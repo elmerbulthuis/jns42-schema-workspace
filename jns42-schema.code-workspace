@@ -25,6 +25,9 @@
 		},
 		{
 			"path": "jns42-schema-intermediate-b"
+		},
+		{
+			"path": "jns42-schema-oas-v3-1"
 		}
 	]
 }

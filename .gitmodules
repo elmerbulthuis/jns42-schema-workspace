@@ -26,3 +26,6 @@
 	path = jns42-schema-intermediate-b
 	url = ../jns42-schema-intermediate-b
 	ignore = all
+[submodule "jns42-schema-oas-v3-1"]
+	path = jns42-schema-oas-v3-1
+	url = ./jns42-schema-oas-v3-1/
