@@ -30,3 +30,11 @@
 	path = jns42-schema-oas-v3-1
 	url = ./jns42-schema-oas-v3-1/
 	ignore = all
+[submodule "jns42-schema-oas-v3-0"]
+	path = jns42-schema-oas-v3-0
+	url = ./jns42-schema-oas-v3-0/
+	ignore = all
+[submodule "jns42-schema-swagger-v2"]
+	path = jns42-schema-swagger-v2
+	url = ./jns42-schema-swagger-v2/
+	ignore = all

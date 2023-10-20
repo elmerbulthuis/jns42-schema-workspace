@@ -28,6 +28,12 @@
 		},
 		{
 			"path": "jns42-schema-oas-v3-1"
+		},
+		{
+			"path": "jns42-schema-oas-v3-0"
+		},
+		{
+			"path": "jns42-schema-swagger-v2"
 		}
 	]
 }
